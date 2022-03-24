@@ -27,3 +27,14 @@ public class tournamentWinner {
         }
     }
 }
+
+/**
+ * => competitions [
+ *      ["Html", "C#"], 
+ *      ["C#", "Python"], 
+ *      ["Python", "Html"]
+ * ]
+ * 
+ * => results[0, 0, 1]
+ * => Winner: "Python" - 6 points (3+3)
+ */
