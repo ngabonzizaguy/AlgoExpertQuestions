@@ -37,4 +37,8 @@ public class tournamentWinner {
  * 
  * => results[0, 0, 1]
  * => Winner: "Python" - 6 points (3+3)
+ * 
+ * ArrayList<ArrayList<String>> competitions, ArrayList<Integer> results
+ * private homeTeam = 1;
+ * private awayTeam = 0;
  */
