@@ -1,6 +1,8 @@
 import java.util.Arrays;
-public class BinarySearch
+class BinarySearch
 {
+    private static Object StdOut;
+    private static Object StdIn;
     public static int rank(int key, int[] a)
     {
         // Array must be sorted.
@@ -20,12 +22,12 @@ public class BinarySearch
     {
         int[] whitelist = In.readInts(args[0]);
         Arrays.sort(whitelist);
-        while (!StdIn.isEmpty())
+        while (!((String) StdIn).isEmpty())
         {
             // Read key, print if not in whitelist.
-            int key = StdIn.readInt();
+            int key = ((Object) StdIn).readInt();
             if (rank(key, whitelist) < 0)
-            StdOut.println(key);
+            ((Object) StdOut).println(key);
         }
     }
 }
