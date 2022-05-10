@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch spiralTraverse",
+            "request": "launch",
+            "mainClass": "spiralTraverse",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
+            "name": "Launch HeadFirstJavaSimpleCode",
+            "request": "launch",
+            "mainClass": "HeadFirstJavaSimpleCode",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch moveElementToEnd",
+            "request": "launch",
+            "mainClass": "moveElementToEnd",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
+            "name": "Launch nonConstructible",
+            "request": "launch",
+            "mainClass": "nonConstructible",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
+            "name": "Launch threeNumberSum",
+            "request": "launch",
+            "mainClass": "threeNumberSum",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
+            "name": "Launch tournamentWinner",
+            "request": "launch",
+            "mainClass": "tournamentWinner",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        }
+    ]
+}
