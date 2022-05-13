@@ -1,3 +1,5 @@
+package AlgoexpertQuestions.Arrays;
+
 import java.util.*;
 
 public class moveElementToEnd {

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ArrayOfProducts",
+            "request": "launch",
+            "mainClass": "AlgoexpertQuestions.Arrays.ArrayOfProducts",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestPeak",
+            "request": "launch",
+            "mainClass": "AlgoexpertQuestions.Arrays.LongestPeak",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
+            "name": "Launch spiralTraverse",
+            "request": "launch",
+            "mainClass": "Arrays.spiralTraverse",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
             "name": "Launch spiralTraverse",
             "request": "launch",
             "mainClass": "spiralTraverse",
