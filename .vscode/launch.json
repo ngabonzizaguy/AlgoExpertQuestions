@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FourNumberSum",
+            "request": "launch",
+            "mainClass": "AlgoexpertQuestions.Arrays.FourNumberSum",
+            "projectName": "AlgoExpertQuestions_a959c3bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch threeNumberSum",
+            "request": "launch",
+            "mainClass": "AlgoexpertQuestions.Arrays.threeNumberSum",
+            "projectName": "AlgoExpertQuestions_a959c3bd"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayOfProducts",
             "request": "launch",
             "mainClass": "AlgoexpertQuestions.Arrays.ArrayOfProducts",
