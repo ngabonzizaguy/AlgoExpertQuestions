@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TwoNumberSum",
+            "request": "launch",
+            "mainClass": "AlgoexpertQuestions.Arrays.TwoNumberSum",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergeOverlappingIntervals",
+            "request": "launch",
+            "mainClass": "AlgoexpertQuestions.Arrays.mergeOverlappingIntervals",
+            "projectName": "AlgoExpertQuestions_f99c68db"
+        },
+        {
+            "type": "java",
             "name": "Launch ArrayOfProducts",
             "request": "launch",
             "mainClass": "AlgoexpertQuestions.Arrays.ArrayOfProducts",
